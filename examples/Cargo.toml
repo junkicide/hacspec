@@ -30,5 +30,6 @@ members = [
     "rsa-pkcs1",
     "bip-340",
     "rsa-fdh-vrf",
-    "coverage_test"
+    "coverage_test",
+    "blowfish"
 ]
